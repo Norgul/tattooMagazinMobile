@@ -1,0 +1,18 @@
+<ion-view title="{{galerie.title}}" id="page8" class=" ">
+    <ion-content padding="true" class="has-header">
+
+
+
+        <ion-slide-box show-pager="true">
+            <ion-slide ng-repeat="picture in galerie.pictures">
+                <img ng-src="{{thumbnailPath}}pictures/{{picture.image}}-b.jpg">
+            </ion-slide>
+        </ion-slide-box>
+
+        <h1 id="NewsTitle-heading1" style="color:#000000;" class=" ">{{galerie.title}}</h1>
+        <p id="NewsTitle-markdown1" style="color:#000000;" class=" ">
+            {{galerie.short_description}}
+        </p>
+
+    </ion-content>
+</ion-view>

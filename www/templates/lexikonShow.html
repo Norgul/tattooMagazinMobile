@@ -1,0 +1,15 @@
+<ion-view title="{{lexicon.title}}" id="page5" class=" ">
+    <ion-content padding="true" class="has-header">
+        
+        <div style="text-align: center">
+            <img ng-if="lexicon.image" ng-src="{{thumbnailPath}}lexicon/{{lexicon.image}}-b.jpg" style="width: 100%">
+            <img ng-if="!lexicon.image" ng-src="../img/ionic.png">
+        </div>
+
+        <h1 id="lexiconTitle-heading1" style="color:#000000;" class=" ">{{lexicon.title}}</h1>
+        <p id="lexiconTitle-markdown1" style="color:#000000;" class=" ">
+            {{lexicon.short_description}}
+        </p>
+        
+    </ion-content>
+</ion-view>

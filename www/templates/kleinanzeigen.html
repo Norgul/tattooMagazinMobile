@@ -1,0 +1,18 @@
+<ion-view title="Kleinanzeigen" id="page2" class=" ">
+    <ion-content padding="true" class="has-header">
+        <a href="#"
+           onclick="window.open('http://tattoomagazin.de/kontakt/anzeige-aufgeben', '_system', 'location=yes'); return false;"
+           id="kleinanzeigen-button3" class=" button button-positive  button-block ">Anzeige aufgeben</a>
+        <ion-list ng-repeat="kleinanzeigen in classifieds">
+            <ion-item class="item-thumbnail-left" href="#/side-menu/kleinanzeigen/{{kleinanzeigen.id}}">
+
+                <img ng-if="kleinanzeigen.image" ng-src="{{thumbnailPath}}classifieds/{{kleinanzeigen.image}}-s.jpg">
+                <img ng-if="!kleinanzeigen.image" ng-src="../img/ionic.png">
+
+                <h2>{{kleinanzeigen.title}}</h2>
+
+                <p>{{kleinanzeigen.short_description}}</p>
+            </ion-item>
+        </ion-list>
+    </ion-content>
+</ion-view>

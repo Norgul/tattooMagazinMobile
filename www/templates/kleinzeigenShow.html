@@ -1,0 +1,15 @@
+<ion-view title="{{classified.title}}" id="page6" class=" ">
+    <ion-content padding="true" class="has-header">
+
+        <div style="text-align: center">
+            <img ng-if="classified.image" ng-src="{{thumbnailPath}}classifieds/{{classified.image}}-b.jpg" style="width: 100%">
+            <img ng-if="!classified.image" ng-src="../img/ionic.png">
+        </div>
+
+        <h1 id="NewsTitle-heading1" style="color:#000000;" class=" ">{{classified.title}}</h1>
+        <p id="NewsTitle-markdown1" style="color:#000000;" class=" ">
+            {{classified.short_description}}
+        </p>
+
+    </ion-content>
+</ion-view>

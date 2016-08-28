@@ -1,0 +1,15 @@
+<ion-view title="{{event.title}}" id="page7" class=" ">
+    <ion-content padding="true" class="has-header">
+
+        <div style="text-align: center">
+            <img ng-if="event.image" ng-src="{{thumbnailPath}}events/{{event.image}}-b.jpg" style="width: 100%">
+            <img ng-if="!event.image" ng-src="../img/ionic.png">
+        </div>
+
+        <h1 id="NewsTitle-heading1" style="color:#000000;" class=" ">{{event.title}}</h1>
+        <p id="NewsTitle-markdown1" style="color:#000000;" class=" ">
+            {{event.short_description}}
+        </p>
+
+    </ion-content>
+</ion-view>

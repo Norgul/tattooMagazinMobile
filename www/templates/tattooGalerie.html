@@ -1,0 +1,15 @@
+<ion-view title="Tattoo galerie" id="page4" class=" ">
+    <ion-content padding="true" class="has-header">
+        <ion-list ng-repeat="galerie in gallery">
+            <ion-item class="item-thumbnail-left" href="#/side-menu/galerie/{{galerie.id}}">
+
+                <img ng-if="galerie.image" ng-src="{{thumbnailPath}}gallery/{{galerie.image}}-s.jpg">
+                <img ng-if="!galerie.image" ng-src="../img/ionic.png">
+
+                <h2>{{galerie.title}}</h2>
+
+                <p>{{galerie.short_description}}</p>
+            </ion-item>
+        </ion-list>
+    </ion-content>
+</ion-view>

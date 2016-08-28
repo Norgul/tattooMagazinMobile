@@ -1,0 +1,15 @@
+<ion-view title="Lexikon" id="page1" class=" ">
+    <ion-content padding="true" class="has-header">
+        <ion-list ng-repeat="lexikon in lexicon">
+            <ion-item class="item-thumbnail-left" href="#/side-menu/lexikon/{{lexikon.id}}">
+
+                <img ng-if="lexikon.image" ng-src="{{thumbnailPath}}lexicon/{{lexikon.image}}-s.jpg">
+                <img ng-if="!lexikon.image" ng-src="../img/ionic.png">
+
+                <h2>{{lexikon.title}}</h2>
+
+                <p>{{lexikon.short_description}}</p>
+            </ion-item>
+        </ion-list>
+    </ion-content>
+</ion-view>

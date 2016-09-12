@@ -1,4 +1,9 @@
-<ion-view title="{{event.title}}" id="page7" class=" ">
+<ion-view id="page7" class=" ">
+
+    <ion-nav-title>
+        {{event.title}}
+    </ion-nav-title>
+
     <ion-content padding="true" class="has-header">
 
         <div style="text-align: center">
@@ -7,8 +12,7 @@
         </div>
 
         <h1 id="NewsTitle-heading1" style="color:#000000;" class=" ">{{event.title}}</h1>
-        <p id="NewsTitle-markdown1" style="color:#000000;" class=" ">
-            {{event.short_description}}
+        <p id="NewsTitle-markdown1" style="color:#000000;" ng-bind-html="event.description">
         </p>
 
     </ion-content>

@@ -1,18 +1,33 @@
-<ion-view title="{{galerie.title}}" id="page8" class=" ">
+<ion-view id="page8" class=" ">
+
+    <ion-nav-title>
+        {{galerie.title}}
+    </ion-nav-title>
+
     <ion-content padding="true" class="has-header">
 
+        <style>
+            .picture-slider {
+                width: 100%;
+            }
+        </style>
 
 
-        <ion-slide-box show-pager="true">
-            <ion-slide ng-repeat="picture in galerie.pictures">
-                <img ng-src="{{thumbnailPath}}pictures/{{picture.image}}-b.jpg">
-            </ion-slide>
-        </ion-slide-box>
+        <div ng-if="loaded">
 
-        <h1 id="NewsTitle-heading1" style="color:#000000;" class=" ">{{galerie.title}}</h1>
-        <p id="NewsTitle-markdown1" style="color:#000000;" class=" ">
-            {{galerie.short_description}}
-        </p>
+            <ion-slide-box show-pager="true">
+                <ion-slide ng-repeat="picture in galerie.pictures">
+                    <img class="picture-slider" ng-src="{{thumbnailPath}}pictures/{{picture.image}}-b.jpg">
+                </ion-slide>
+            </ion-slide-box>
+
+            <h1 id="NewsTitle-heading1" style="color:#000000;">{{galerie.title}}</h1>
+
+            <p id="NewsTitle-markdown1" style="color:#000000;" ng-bind-html="galerie.description">
+            </p>
+        </div>
+
+
 
     </ion-content>
 </ion-view>

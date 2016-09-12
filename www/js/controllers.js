@@ -1,11 +1,11 @@
 angular.module('app.controllers', [])
 
 
-    .constant('SERVER', 'http://tattoomagazin.de/api/')
+    .constant('SERVER', 'http://tattoomagazin.de/api/v1/')
     .constant('thumbSERVER', 'http://tattoomagazin.de/upload/')
-/*
-    .constant('SERVER', 'http://tattoo.dev/api/')
-    .constant('thumbSERVER', 'http://tattoo.dev/upload/')
+ /*
+     .constant('SERVER', 'http://tattoo.dev/api/v1/')
+     .constant('thumbSERVER', 'http://tattoo.dev/upload/')
 */
     .controller('newsCtrl', ['$state', 'Injection', '$scope', '$http', 'SERVER', 'thumbSERVER',
         function ($state, Injection, $scope, $http, SERVER, thumbSERVER) {
@@ -82,25 +82,25 @@ angular.module('app.controllers', [])
 
         }])
 
-    .controller('TattooGalerieCtrl', ['$state', 'Injection', '$scope', '$http', 'SERVER', 'thumbSERVER',
-        function ($state, Injection, $scope, $http, SERVER, thumbSERVER) {
+    .controller('TattooGalerieCtrl', ['$state', 'Injection', '$scope', '$http', 'SERVER', 'thumbSERVER', '$ionicSlideBoxDelegate',
+        function ($state, Injection, $scope, $http, SERVER, thumbSERVER, $ionicSlideBoxDelegate) {
 
             Injection.ResourceFactory.getResource($http, SERVER, 'gallery')
                 .then(function (response) {
                     $scope.gallery = response.data.gallery;
                 }, function (error) {
                 });
-
             $scope.thumbnailPath = thumbSERVER;
         }])
 
     .controller('GalerieShowCtrl', ['$state', 'Injection', '$scope', '$http', 'SERVER', 'thumbSERVER', '$stateParams',
         function ($state, Injection, $scope, $http, SERVER, thumbSERVER, $stateParams) {
 
+            $scope.loaded = false;
             Injection.ResourceFactory.getResource($http, SERVER, 'gallery/' + $stateParams.id)
                 .then(function (response) {
                     $scope.galerie = response.data.gallery;
-                    console.log($scope.galerie.pictures)
+                    $scope.loaded = true;
                 }, function (error) {
                 });
 

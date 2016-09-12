@@ -1,7 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d379f30-6da8-4cad-b5b8-be4ba33d9e00" name="Default" comment="" />
+    <list default="true" id="2d379f30-6da8-4cad-b5b8-be4ba33d9e00" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/icon.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/admob.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/admob_simple.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/android/icon/drawable-hdpi-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/android/icon/drawable-ldpi-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/android/icon/drawable-mdpi-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/android/icon/drawable-xhdpi-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/android/icon/drawable-xxhdpi-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/android/icon/drawable-xxxhdpi-icon.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/splash/drawable-land-hdpi-screen.png" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-land-hdpi-screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/splash/drawable-land-ldpi-screen.png" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-land-ldpi-screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/splash/drawable-land-mdpi-screen.png" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-land-mdpi-screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/splash/drawable-land-xhdpi-screen.png" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-land-xhdpi-screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/splash/drawable-land-xxhdpi-screen.png" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-land-xxhdpi-screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/splash/drawable-land-xxxhdpi-screen.png" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-land-xxxhdpi-screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/splash/drawable-port-hdpi-screen.png" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-port-hdpi-screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/splash/drawable-port-ldpi-screen.png" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-port-ldpi-screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/splash/drawable-port-mdpi-screen.png" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-port-mdpi-screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/splash/drawable-port-xhdpi-screen.png" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-port-xhdpi-screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/splash/drawable-port-xxhdpi-screen.png" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-port-xxhdpi-screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/splash/drawable-port-xxxhdpi-screen.png" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-port-xxxhdpi-screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/splash.png" afterPath="$PROJECT_DIR$/resources/splash.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/app.js" afterPath="$PROJECT_DIR$/www/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/controllers.js" afterPath="$PROJECT_DIR$/www/js/controllers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/datenschutz.html" afterPath="$PROJECT_DIR$/www/templates/datenschutz.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/impressum.html" afterPath="$PROJECT_DIR$/www/templates/impressum.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/kleinzeigenShow.html" afterPath="$PROJECT_DIR$/www/templates/kleinzeigenShow.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/kontakt.html" afterPath="$PROJECT_DIR$/www/templates/kontakt.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/lexikon.html" afterPath="$PROJECT_DIR$/www/templates/lexikon.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/lexikonShow.html" afterPath="$PROJECT_DIR$/www/templates/lexikonShow.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/menu.html" afterPath="$PROJECT_DIR$/www/templates/menu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/news.html" afterPath="$PROJECT_DIR$/www/templates/news.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/newsShow.html" afterPath="$PROJECT_DIR$/www/templates/newsShow.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/tattooEvents.html" afterPath="$PROJECT_DIR$/www/templates/tattooEvents.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/tattooEventsShow.html" afterPath="$PROJECT_DIR$/www/templates/tattooEventsShow.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/tattooGalerie.html" afterPath="$PROJECT_DIR$/www/templates/tattooGalerie.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/tattooGalerieShow.html" afterPath="$PROJECT_DIR$/www/templates/tattooGalerieShow.html" />
+    </list>
     <ignored path="tattooMagazinMobile.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -23,16 +65,17 @@
     <option name="SHOW_TABLE_DETAILS" value="true" />
     <option name="SHOW_EMPTY_GROUPS" value="false" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="tattooMagazinMobile" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="controllers.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/www/js/controllers.js">
+      <file leaf-file-name="kontakt.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/templates/kontakt.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.17812197">
-              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.3785092">
+              <caret line="17" column="57" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -40,28 +83,36 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/www/templates/menu.html" />
-        <option value="$PROJECT_DIR$/www/templates/newsShow.html" />
         <option value="$PROJECT_DIR$/www/templates/kleinanzeigen.html" />
-        <option value="$PROJECT_DIR$/www/templates/kleinzeigenShow.html" />
-        <option value="$PROJECT_DIR$/www/templates/tattooEvents.html" />
-        <option value="$PROJECT_DIR$/www/templates/tattooEventsShow.html" />
-        <option value="$PROJECT_DIR$/www/templates/tattooGalerie.html" />
         <option value="$PROJECT_DIR$/www/js/routes.js" />
-        <option value="$PROJECT_DIR$/www/templates/lexikon.html" />
-        <option value="$PROJECT_DIR$/www/templates/lexikonShow.html" />
         <option value="$PROJECT_DIR$/ionic.project" />
-        <option value="$PROJECT_DIR$/www/templates/news.html" />
-        <option value="$PROJECT_DIR$/config.xml" />
         <option value="$PROJECT_DIR$/www/js/services.js" />
-        <option value="$PROJECT_DIR$/www/templates/kontakt.html" />
+        <option value="$PROJECT_DIR$/www/templates/impressum.html" />
+        <option value="$PROJECT_DIR$/www/templates/datenschutz.html" />
         <option value="$PROJECT_DIR$/www/js/app.js" />
+        <option value="$PROJECT_DIR$/www/js/admob.js" />
+        <option value="$PROJECT_DIR$/plugins/cordova-plugin-admobpro/test/index.html" />
+        <option value="$PROJECT_DIR$/www/templates/lexikon.html" />
+        <option value="$PROJECT_DIR$/www/templates/tattooEvents.html" />
+        <option value="$PROJECT_DIR$/www/templates/tattooGalerie.html" />
+        <option value="$PROJECT_DIR$/config.xml" />
+        <option value="$PROJECT_DIR$/www/templates/menu.html" />
         <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/www/templates/tattooGalerieShow.html" />
+        <option value="$PROJECT_DIR$/www/templates/kleinzeigenShow.html" />
+        <option value="$PROJECT_DIR$/www/templates/lexikonShow.html" />
+        <option value="$PROJECT_DIR$/www/templates/tattooEventsShow.html" />
+        <option value="$PROJECT_DIR$/www/templates/newsShow.html" />
         <option value="$PROJECT_DIR$/www/js/controllers.js" />
+        <option value="$PROJECT_DIR$/www/js/admob_simple.js" />
+        <option value="$PROJECT_DIR$/www/templates/news.html" />
+        <option value="$PROJECT_DIR$/www/templates/kontakt.html" />
       </list>
     </option>
   </component>
@@ -92,7 +143,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -110,6 +161,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -178,37 +231,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tattooMagazinMobile" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tattooMagazinMobile" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/Project/PHP/tattooMagazin.de" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\tattooMagazinMobile\www\js" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\tattooMagazinMobile\resources\android\splash" />
+      <recent name="C:\Projects\tattooMagazinMobile\resources" />
+      <recent name="C:\Projects\tattooMagazinMobile\www" />
       <recent name="C:\Projects\tattooMagazinMobile\www\img" />
       <recent name="C:\Projects\tattooMagazinMobile\www\templates" />
     </key>
@@ -308,31 +347,77 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="9" />
+      <option name="time" value="11" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/www/templates/tattooGalerieShow.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1473683919164" expanded="true" signature="30:823" placeholder="..." />
+            <marker date="1473683919164" expanded="true" signature="51:98" placeholder="..." />
+            <marker date="1473683919164" expanded="true" signature="151:811" placeholder="..." />
+            <marker date="1473683919164" expanded="true" signature="168:258" placeholder="..." />
+            <marker date="1473683919164" expanded="true" signature="198:242" placeholder="{...}" />
+            <marker date="1473683919164" expanded="true" signature="289:789" placeholder="..." />
+            <marker date="1473683919164" expanded="true" signature="336:570" placeholder="..." />
+            <marker date="1473683919164" expanded="true" signature="404:541" placeholder="..." />
+            <marker date="1473683919164" expanded="true" signature="620:634" placeholder="..." />
+            <marker date="1473683919164" expanded="true" signature="707:721" placeholder="..." />
+            <marker date="1473683919164" expanded="true" signature="757:774" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+          <folding>
+            <marker date="1473676155994" expanded="true" signature="211:2816" placeholder="..." />
+            <marker date="1473676155994" expanded="true" signature="256:323" placeholder="..." />
+            <marker date="1473676155994" expanded="true" signature="389:426" placeholder="..." />
+            <marker date="1473676155994" expanded="true" signature="1003:1083" placeholder="..." />
+            <marker date="1473676155994" expanded="true" signature="1111:2775" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+          <folding>
+            <marker date="1473676155994" expanded="true" signature="211:2816" placeholder="..." />
+            <marker date="1473676155994" expanded="true" signature="256:323" placeholder="..." />
+            <marker date="1473676155994" expanded="true" signature="389:426" placeholder="..." />
+            <marker date="1473676155994" expanded="true" signature="1003:1083" placeholder="..." />
+            <marker date="1473676155994" expanded="true" signature="1111:2775" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/tattooGalerieShow.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
-          <folding>
-            <marker date="1472305146871" expanded="true" signature="21:1885" placeholder="..." />
-            <marker date="1472305146871" expanded="true" signature="30:1571" placeholder="..." />
-            <marker date="1472305146871" expanded="true" signature="362:512" placeholder="..." />
-            <marker date="1472305146871" expanded="true" signature="608:1190" placeholder="..." />
-            <marker date="1472305146871" expanded="true" signature="659:694" placeholder="{...}" />
-            <marker date="1472305146871" expanded="true" signature="727:762" placeholder="{...}" />
-            <marker date="1472305146871" expanded="true" signature="803:848" placeholder="{...}" />
-            <marker date="1472305146871" expanded="true" signature="929:993" placeholder="{...}" />
-            <marker date="1472305146871" expanded="true" signature="1090:1178" placeholder="{...}" />
-            <marker date="1472305146871" expanded="true" signature="1432:1558" placeholder="..." />
-            <marker date="1472305146871" expanded="true" signature="1627:1877" placeholder="..." />
-            <marker date="1472305146871" expanded="true" signature="1635:1867" placeholder="..." />
-            <marker date="1472305146871" expanded="true" signature="1645:1860" placeholder="..." />
-            <marker date="1472305146871" expanded="true" signature="1684:1811" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -340,7 +425,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="137" column="32" selection-start-line="137" selection-start-column="32" selection-end-line="137" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -355,7 +439,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -370,111 +453,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/tattooEventsShow.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.066795744">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/menu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6234269">
-          <caret line="31" column="87" selection-start-line="31" selection-start-column="87" selection-end-line="31" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/tattooEvents.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13359149">
-          <caret line="6" column="74" selection-start-line="6" selection-start-column="74" selection-end-line="6" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/kleinzeigenShow.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.022265246">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/lexikon.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.066795744">
-          <caret line="3" column="76" selection-start-line="3" selection-start-column="76" selection-end-line="3" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/newsShow.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.066795744">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/lexikonShow.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31171346">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/kleinanzeigen.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13359149">
-          <caret line="6" column="82" selection-start-line="6" selection-start-column="82" selection-end-line="6" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ionic.project">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06858847">
-          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8664085">
-          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding>
-            <marker date="1472125759755" expanded="true" signature="166:2885" placeholder="..." />
-            <marker date="1472125759755" expanded="true" signature="274:341" placeholder="..." />
-            <marker date="1472125759755" expanded="true" signature="409:446" placeholder="..." />
-            <marker date="1472125759755" expanded="true" signature="984:1070" placeholder="..." />
-            <marker date="1472125759755" expanded="true" signature="1100:2838" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/news.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13359149">
-          <caret line="6" column="96" selection-start-line="6" selection-start-column="96" selection-end-line="6" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/kontakt.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35624394">
-          <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/tattooGalerie.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.066795744">
-          <caret line="3" column="76" selection-start-line="3" selection-start-column="76" selection-end-line="3" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/services.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40077445">
-          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -485,6 +463,74 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/directives.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ionic.config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ionic.project">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06858847">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.bowerrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40077445">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/www/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.15585673">
@@ -492,60 +538,377 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/directives.js">
+    <entry file="file://$PROJECT_DIR$/plugins/cordova-plugin-admobpro/test/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7105518">
+          <caret line="233" column="0" selection-start-line="233" selection-start-column="0" selection-end-line="234" selection-end-column="0" />
+          <folding>
+            <marker date="1473663709762" expanded="true" signature="21:8720" placeholder="..." />
+            <marker date="1473663709762" expanded="true" signature="28:2524" placeholder="..." />
+            <marker date="1473663709762" expanded="true" signature="83:192" placeholder="..." />
+            <marker date="1473663709762" expanded="true" signature="612:730" placeholder="..." />
+            <marker date="1473663709762" expanded="true" signature="775:1557" placeholder="..." />
+            <marker date="1473663709762" expanded="true" signature="785:1065" placeholder="//..." />
+            <marker date="1473663709762" expanded="true" signature="1087:1540" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="1206:1530" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="1808:2516" placeholder="..." />
+            <marker date="1473663709762" expanded="true" signature="1823:2024" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="2047:2259" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="2286:2386" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="2403:2503" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="2532:8712" placeholder="..." />
+            <marker date="1473663709762" expanded="false" signature="2541:7177" placeholder="..." />
+            <marker date="1473663709762" expanded="true" signature="2652:2834" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="2672:2827" placeholder="{&quot;banner&quot;: 'ca-app-pub-6869992474017983/9375997553'...}" />
+            <marker date="1473663709762" expanded="true" signature="2893:3071" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="2913:3064" placeholder="{&quot;banner&quot;: 'ca-app-pub-6869992474017983/4806197152'...}" />
+            <marker date="1473663709762" expanded="true" signature="3077:3265" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="3097:3258" placeholder="{&quot;banner&quot;: 'ca-app-pub-6869992474017983/8878394753'...}" />
+            <marker date="1473663709762" expanded="true" signature="3303:3594" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="3343:3586" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="3632:3700" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="3731:3926" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="3753:3829" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="3950:6645" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="3996:4110" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="4124:4194" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="4223:4654" placeholder="{&quot;isTesting&quot;: true...}" />
+            <marker date="1473663709762" expanded="true" signature="4435:4644" placeholder="//..." />
+            <marker date="1473663709762" expanded="true" signature="4792:5317" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="5370:5381" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="5435:5446" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="5501:5512" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="5566:5577" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="5678:5723" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="5820:5863" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="5943:6111" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="5983:6099" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="6160:6209" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="6356:6449" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="6588:6637" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="6721:6820" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="6858:7165" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="7026:7113" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="7119:7159" placeholder="{...}" />
+            <marker date="1473663709762" expanded="true" signature="7197:8704" placeholder="..." />
+            <marker date="1473663709762" expanded="true" signature="7394:7750" placeholder="..." />
+            <marker date="1473663709762" expanded="true" signature="7784:8209" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/tattooEvents.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/ionic-plugin-keyboard/src/blackberry10/native/public/json/config.h">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6214908">
+          <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
           <folding>
-            <marker date="1470235405081" expanded="true" signature="67:83" placeholder="[...]" />
-            <marker date="1470235405081" expanded="true" signature="78:82" placeholder="{...}" />
+            <marker date="1473676155994" expanded="true" signature="211:2816" placeholder="..." />
+            <marker date="1473676155994" expanded="true" signature="256:323" placeholder="..." />
+            <marker date="1473676155994" expanded="true" signature="389:426" placeholder="..." />
+            <marker date="1473676155994" expanded="true" signature="1003:1083" placeholder="..." />
+            <marker date="1473676155994" expanded="true" signature="1111:2775" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/admob.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.066795744">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="62" />
+          <folding>
+            <marker date="1473662508971" expanded="true" signature="63:225" placeholder="{...}" />
+            <marker date="1473662508971" expanded="true" signature="79:222" placeholder="{&quot;banner&quot;: 'ca-app-pub-6869992474017983/9375997553'...}" />
+            <marker date="1473662508971" expanded="true" signature="283:441" placeholder="{...}" />
+            <marker date="1473662508971" expanded="true" signature="299:438" placeholder="{&quot;banner&quot;: 'ca-app-pub-6869992474017983/4806197152'...}" />
+            <marker date="1473662508971" expanded="true" signature="447:615" placeholder="{...}" />
+            <marker date="1473662508971" expanded="true" signature="463:612" placeholder="{&quot;banner&quot;: 'ca-app-pub-6869992474017983/8878394753'...}" />
+            <marker date="1473662508971" expanded="true" signature="695:760" placeholder="{...}" />
+            <marker date="1473662508971" expanded="true" signature="766:784" placeholder="{...}" />
+            <marker date="1473662508971" expanded="true" signature="897:1088" placeholder="{&quot;isTesting&quot;: true...}" />
+            <marker date="1473662508971" expanded="true" signature="1123:1189" placeholder="{&quot;autoShow&quot;: true...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9554695">
-          <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.3765731">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/tattooGalerie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31171346">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/impressum.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64375603">
+          <caret line="51" column="106" selection-start-line="51" selection-start-column="106" selection-end-line="51" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/lexikon.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="24" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9574056">
+          <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/lexikonShow.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31171346">
+          <caret line="14" column="96" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="96" />
           <folding>
-            <marker date="1472305146871" expanded="true" signature="21:1885" placeholder="..." />
-            <marker date="1472305146871" expanded="true" signature="30:1571" placeholder="..." />
-            <marker date="1472305146871" expanded="true" signature="362:512" placeholder="..." />
-            <marker date="1472305146871" expanded="true" signature="608:1190" placeholder="..." />
-            <marker date="1472305146871" expanded="true" signature="659:694" placeholder="{...}" />
-            <marker date="1472305146871" expanded="true" signature="727:762" placeholder="{...}" />
-            <marker date="1472305146871" expanded="true" signature="803:848" placeholder="{...}" />
-            <marker date="1472305146871" expanded="true" signature="929:993" placeholder="{...}" />
-            <marker date="1472305146871" expanded="true" signature="1090:1178" placeholder="{...}" />
-            <marker date="1472305146871" expanded="true" signature="1432:1558" placeholder="..." />
-            <marker date="1472305146871" expanded="true" signature="1627:1877" placeholder="..." />
-            <marker date="1472305146871" expanded="true" signature="1635:1867" placeholder="..." />
-            <marker date="1472305146871" expanded="true" signature="1645:1860" placeholder="..." />
-            <marker date="1472305146871" expanded="true" signature="1684:1811" placeholder="..." />
+            <marker date="1473684013416" expanded="true" signature="30:648" placeholder="..." />
+            <marker date="1473684013416" expanded="true" signature="51:98" placeholder="..." />
+            <marker date="1473684013416" expanded="true" signature="151:636" placeholder="..." />
+            <marker date="1473684013416" expanded="false" signature="182:200" placeholder="..." />
+            <marker date="1473684013416" expanded="true" signature="201:401" placeholder="..." />
+            <marker date="1473684013416" expanded="false" signature="307:318" placeholder="..." />
+            <marker date="1473684013416" expanded="false" signature="450:464" placeholder="..." />
+            <marker date="1473684013416" expanded="false" signature="545:559" placeholder="..." />
+            <marker date="1473684013416" expanded="true" signature="595:608" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/tattooEventsShow.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31171346">
+          <caret line="14" column="92" selection-start-line="14" selection-start-column="92" selection-end-line="14" selection-end-column="92" />
+          <folding>
+            <marker date="1473684013397" expanded="true" signature="30:613" placeholder="..." />
+            <marker date="1473684013397" expanded="true" signature="51:96" placeholder="..." />
+            <marker date="1473684013397" expanded="true" signature="149:601" placeholder="..." />
+            <marker date="1473684013397" expanded="false" signature="172:190" placeholder="..." />
+            <marker date="1473684013397" expanded="true" signature="191:384" placeholder="..." />
+            <marker date="1473684013397" expanded="false" signature="292:303" placeholder="..." />
+            <marker date="1473684013397" expanded="false" signature="430:444" placeholder="..." />
+            <marker date="1473684013397" expanded="false" signature="520:534" placeholder="..." />
+            <marker date="1473684013397" expanded="true" signature="568:581" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/templates/tattooGalerieShow.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11132623">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.53436595">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding>
-            <marker date="1472320102931" expanded="true" signature="56:598" placeholder="..." />
-            <marker date="1472320102931" expanded="true" signature="108:586" placeholder="..." />
-            <marker date="1472320102931" expanded="true" signature="153:348" placeholder="..." />
-            <marker date="1472320102931" expanded="true" signature="217:323" placeholder="..." />
-            <marker date="1472320102931" expanded="true" signature="394:408" placeholder="..." />
-            <marker date="1472320102931" expanded="true" signature="486:500" placeholder="..." />
-            <marker date="1472320102931" expanded="true" signature="511:566" placeholder="..." />
+            <marker date="1473683919164" expanded="true" signature="30:823" placeholder="..." />
+            <marker date="1473683919164" expanded="true" signature="51:98" placeholder="..." />
+            <marker date="1473683919164" expanded="true" signature="151:811" placeholder="..." />
+            <marker date="1473683919164" expanded="true" signature="168:258" placeholder="..." />
+            <marker date="1473683919164" expanded="true" signature="198:242" placeholder="{...}" />
+            <marker date="1473683919164" expanded="true" signature="289:789" placeholder="..." />
+            <marker date="1473683919164" expanded="true" signature="336:570" placeholder="..." />
+            <marker date="1473683919164" expanded="true" signature="404:541" placeholder="..." />
+            <marker date="1473683919164" expanded="true" signature="620:634" placeholder="..." />
+            <marker date="1473683919164" expanded="true" signature="707:721" placeholder="..." />
+            <marker date="1473683919164" expanded="true" signature="757:774" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/admob_simple.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31171346">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <marker date="1473688486439" expanded="true" signature="117:441" placeholder="{...}" />
+            <marker date="1473688486439" expanded="true" signature="133:438" placeholder="{&quot;banner&quot;: 'ca-app-pub-9425909017099565~9726938536'...}" />
+            <marker date="1473688486439" expanded="true" signature="150:291" placeholder="/*...*/" />
+            <marker date="1473688486439" expanded="true" signature="500:658" placeholder="{...}" />
+            <marker date="1473688486439" expanded="true" signature="516:655" placeholder="{&quot;banner&quot;: 'ca-app-pub-6869992474017983/4806197152'...}" />
+            <marker date="1473688486439" expanded="true" signature="664:832" placeholder="{...}" />
+            <marker date="1473688486439" expanded="true" signature="680:829" placeholder="{&quot;banner&quot;: 'ca-app-pub-6869992474017983/8878394753'...}" />
+            <marker date="1473688486439" expanded="true" signature="853:1456" placeholder="{...}" />
+            <marker date="1473688486439" expanded="true" signature="871:935" placeholder="{...}" />
+            <marker date="1473688486439" expanded="true" signature="1004:1236" placeholder="{&quot;overlap&quot;: false...}" />
+            <marker date="1473688486439" expanded="true" signature="1320:1452" placeholder="{&quot;autoShow&quot;: true...}" />
+            <marker date="1473688486439" expanded="true" signature="1537:1602" placeholder="{...}" />
+            <marker date="1473688486439" expanded="true" signature="1608:1626" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/js/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17812197">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.22265247">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <marker date="1473687896459" expanded="true" signature="164:282" placeholder="/*...*/" />
+            <marker date="1473687896459" expanded="true" signature="311:743" placeholder="[...]" />
+            <marker date="1473687896459" expanded="true" signature="452:742" placeholder="{...}" />
+            <marker date="1473687896459" expanded="true" signature="570:643" placeholder="{...}" />
+            <marker date="1473687896459" expanded="true" signature="662:681" placeholder="{...}" />
+            <marker date="1473687896459" expanded="true" signature="778:1260" placeholder="[...]" />
+            <marker date="1473687896459" expanded="true" signature="949:1259" placeholder="{...}" />
+            <marker date="1473687896459" expanded="true" signature="1086:1159" placeholder="{...}" />
+            <marker date="1473687896459" expanded="true" signature="1178:1197" placeholder="{...}" />
+            <marker date="1473687896459" expanded="false" signature="1300:1753" placeholder="[...]" />
+            <marker date="1473687896459" expanded="true" signature="1441:1752" placeholder="{...}" />
+            <marker date="1473687896459" expanded="true" signature="1566:1653" placeholder="{...}" />
+            <marker date="1473687896459" expanded="true" signature="1672:1691" placeholder="{...}" />
+            <marker date="1473687896459" expanded="false" signature="1797:2298" placeholder="[...]" />
+            <marker date="1473687896459" expanded="true" signature="1968:2297" placeholder="{...}" />
+            <marker date="1473687896459" expanded="true" signature="2112:2197" placeholder="{...}" />
+            <marker date="1473687896459" expanded="true" signature="2216:2235" placeholder="{...}" />
+            <marker date="1473687896459" expanded="false" signature="2337:2775" placeholder="[...]" />
+            <marker date="1473687896459" expanded="true" signature="2478:2774" placeholder="{...}" />
+            <marker date="1473687896459" expanded="true" signature="2598:2675" placeholder="{...}" />
+            <marker date="1473687896459" expanded="true" signature="2694:2713" placeholder="{...}" />
+            <marker date="1473687896459" expanded="false" signature="2812:3298" placeholder="[...]" />
+            <marker date="1473687896459" expanded="true" signature="2983:3297" placeholder="{...}" />
+            <marker date="1473687896459" expanded="true" signature="3122:3197" placeholder="{...}" />
+            <marker date="1473687896459" expanded="true" signature="3216:3235" placeholder="{...}" />
+            <marker date="1473687896459" expanded="true" signature="3338:3828" placeholder="[...]" />
+            <marker date="1473687896459" expanded="true" signature="3529:3827" placeholder="{...}" />
+            <marker date="1473687896459" expanded="true" signature="3650:3729" placeholder="{...}" />
+            <marker date="1473687896459" expanded="true" signature="3748:3767" placeholder="{...}" />
+            <marker date="1473687896459" expanded="true" signature="3866:4435" placeholder="[...]" />
+            <marker date="1473687896459" expanded="true" signature="4037:4434" placeholder="{...}" />
+            <marker date="1473687896459" expanded="true" signature="4212:4333" placeholder="{...}" />
+            <marker date="1473687896459" expanded="true" signature="4352:4371" placeholder="{...}" />
+            <marker date="1473687896459" expanded="true" signature="4469:4910" placeholder="[...]" />
+            <marker date="1473687896459" expanded="true" signature="4610:4909" placeholder="{...}" />
+            <marker date="1473687896459" expanded="true" signature="4731:4810" placeholder="{...}" />
+            <marker date="1473687896459" expanded="true" signature="4829:4848" placeholder="{...}" />
+            <marker date="1473687896459" expanded="true" signature="4948:5439" placeholder="[...]" />
+            <marker date="1473687896459" expanded="true" signature="5119:5438" placeholder="{...}" />
+            <marker date="1473687896459" expanded="true" signature="5259:5338" placeholder="{...}" />
+            <marker date="1473687896459" expanded="true" signature="5357:5376" placeholder="{...}" />
+            <marker date="1473687896459" expanded="true" signature="5473:5980" placeholder="[...]" />
+            <marker date="1473687896459" expanded="true" signature="5614:5979" placeholder="{...}" />
+            <marker date="1473687896459" expanded="true" signature="5700:5967" placeholder="{...}" />
+            <marker date="1473687896459" expanded="true" signature="5845:5910" placeholder="{...}" />
+            <marker date="1473687896459" expanded="true" signature="5929:5952" placeholder="{...}" />
+            <marker date="1473687896459" expanded="true" signature="6018:6176" placeholder="[...]" />
+            <marker date="1473687896459" expanded="true" signature="6162:6175" placeholder="{...}" />
+            <marker date="1473687896459" expanded="true" signature="6212:6370" placeholder="[...]" />
+            <marker date="1473687896459" expanded="true" signature="6356:6369" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/datenschutz.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24491772">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+          <folding>
+            <marker date="1473536577605" expanded="true" signature="51:24743" placeholder="..." />
+            <marker date="1473536577605" expanded="true" signature="103:24731" placeholder="..." />
+            <marker date="1473536577605" expanded="true" signature="163:897" placeholder="..." />
+            <marker date="1473536577605" expanded="true" signature="910:1141" placeholder="..." />
+            <marker date="1473536577605" expanded="true" signature="1154:1614" placeholder="..." />
+            <marker date="1473536577605" expanded="true" signature="1959:4085" placeholder="..." />
+            <marker date="1473536577605" expanded="true" signature="4098:4338" placeholder="..." />
+            <marker date="1473536577605" expanded="true" signature="4428:6033" placeholder="..." />
+            <marker date="1473536577605" expanded="true" signature="6154:7643" placeholder="..." />
+            <marker date="1473536577605" expanded="true" signature="7741:8928" placeholder="..." />
+            <marker date="1473536577605" expanded="true" signature="9028:11006" placeholder="..." />
+            <marker date="1473536577605" expanded="true" signature="11106:12246" placeholder="..." />
+            <marker date="1473536577605" expanded="true" signature="12519:13160" placeholder="..." />
+            <marker date="1473536577605" expanded="true" signature="13173:13721" placeholder="..." />
+            <marker date="1473536577605" expanded="true" signature="13806:15073" placeholder="..." />
+            <marker date="1473536577605" expanded="true" signature="15086:17575" placeholder="..." />
+            <marker date="1473536577605" expanded="true" signature="18252:18716" placeholder="..." />
+            <marker date="1473536577605" expanded="true" signature="18781:19159" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/kleinanzeigen.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13359149">
+          <caret line="6" column="82" selection-start-line="6" selection-start-column="82" selection-end-line="6" selection-end-column="82" />
+          <folding>
+            <marker date="1470308713533" expanded="true" signature="52:903" placeholder="..." />
+            <marker date="1470308713533" expanded="true" signature="104:891" placeholder="..." />
+            <marker date="1470308713533" expanded="true" signature="125:357" placeholder="..." />
+            <marker date="1470308713533" expanded="true" signature="417:872" placeholder="..." />
+            <marker date="1470308713533" expanded="true" signature="522:852" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/newsShow.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2894482">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <marker date="1473686207598" expanded="true" signature="20:581" placeholder="..." />
+            <marker date="1473686207598" expanded="true" signature="40:84" placeholder="..." />
+            <marker date="1473686207598" expanded="true" signature="137:569" placeholder="..." />
+            <marker date="1473686207598" expanded="true" signature="160:178" placeholder="..." />
+            <marker date="1473686207598" expanded="true" signature="179:367" placeholder="..." />
+            <marker date="1473686207598" expanded="true" signature="276:287" placeholder="..." />
+            <marker date="1473686207598" expanded="true" signature="413:427" placeholder="..." />
+            <marker date="1473686207598" expanded="true" signature="492:506" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/news.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3339787">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+          <folding>
+            <marker date="1473688913080" expanded="true" signature="43:598" placeholder="..." />
+            <marker date="1473688913080" expanded="true" signature="95:586" placeholder="..." />
+            <marker date="1473688913080" expanded="true" signature="145:567" placeholder="..." />
+            <marker date="1473688913080" expanded="true" signature="238:547" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/kleinzeigenShow.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31171346">
+          <caret line="14" column="73" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="73" />
+          <folding>
+            <marker date="1473684013410" expanded="true" signature="30:648" placeholder="..." />
+            <marker date="1473684013410" expanded="true" signature="51:101" placeholder="..." />
+            <marker date="1473684013410" expanded="true" signature="154:636" placeholder="..." />
+            <marker date="1473684013410" expanded="false" signature="177:195" placeholder="..." />
+            <marker date="1473684013410" expanded="true" signature="196:409" placeholder="..." />
+            <marker date="1473684013410" expanded="false" signature="312:323" placeholder="..." />
+            <marker date="1473684013410" expanded="false" signature="455:469" placeholder="..." />
+            <marker date="1473684013410" expanded="false" signature="550:564" placeholder="..." />
+            <marker date="1473684013410" expanded="true" signature="603:616" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/kontakt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3785092">
+          <caret line="17" column="57" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
           <folding />
         </state>
       </provider>

@@ -1,4 +1,9 @@
-<ion-view title="{{lexicon.title}}" id="page5" class=" ">
+<ion-view id="page5" class=" ">
+
+    <ion-nav-title>
+        {{lexicon.title}}
+    </ion-nav-title>
+
     <ion-content padding="true" class="has-header">
         
         <div style="text-align: center">
@@ -7,8 +12,7 @@
         </div>
 
         <h1 id="lexiconTitle-heading1" style="color:#000000;" class=" ">{{lexicon.title}}</h1>
-        <p id="lexiconTitle-markdown1" style="color:#000000;" class=" ">
-            {{lexicon.short_description}}
+        <p id="lexiconTitle-markdown1" style="color:#000000;" ng-bind-html="lexicon.description">
         </p>
         
     </ion-content>

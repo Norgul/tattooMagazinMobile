@@ -2,9 +2,9 @@
 <widget id="com.ionicframework.tattoomagazinmobile304249" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>TattooMagazin</name>
   <description>
-        An Ionic Framework and Cordova project.
+        TattooMagazin.de
     </description>
-  <author email="you@example.com" href="http://example.com.com/">
+  <author email="marko.dupor@gmail.com" href="http://tattoomagazin.de/">
         Your Name Here
     </author>
   <content src="index.html"/>

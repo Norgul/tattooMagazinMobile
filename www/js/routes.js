@@ -124,6 +124,15 @@ angular.module('app.routes', [])
                 }
             })
 
+            .state('menu.amazon', {
+                url: '/amazon',
+                views: {
+                    'side-menu1': {
+                        templateUrl: 'templates/amazon.html'
+                    }
+                }
+            })
+
             .state('menu.datenschutz', {
                 url: '/datenschutz',
                 views: {

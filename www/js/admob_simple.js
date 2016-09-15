@@ -10,8 +10,8 @@ if (/(android)/i.test(navigator.userAgent)) {
 */
 
          //real
-         banner: 'ca-app-pub-9425909017099565~9726938536',
-         interstitial: 'ca-app-pub-9425909017099565~9726938536'
+         banner: 'ca-app-pub-9425909017099565/2450690533',
+         interstitial: 'ca-app-pub-9425909017099565/9973957338'
 
     };
 } else if (/(ipod|iphone|ipad)/i.test(navigator.userAgent)) {

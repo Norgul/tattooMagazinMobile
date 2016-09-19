@@ -50,6 +50,7 @@ angular.module('app.controllers', [])
             Injection.ResourceFactory.getResource($http, SERVER, 'classifieds/' + $stateParams.id)
                 .then(function (response) {
                     $scope.classified = response.data.classified;
+                    console.log($scope.classified);
                 }, function (error) {
                 });
 
@@ -141,7 +142,7 @@ angular.module('app.controllers', [])
             $scope.sendCommentToAPI = function () {
                 Injection.ResourceFactory.postResource($http, SERVER, 'contact', $scope.comment)
                     .then(function (resource) {
-                        $state.go('news')
+                        $state.go('menu.news')
                     }, function (error) {
                     })
             };

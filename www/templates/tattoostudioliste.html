@@ -1,0 +1,23 @@
+<ion-view title="Tattoostudio Liste">
+    <ion-content padding="true" class="has-header">
+        <a href="#" onclick="window.open('https://tattoomagazin.de/kontakt/studioliste-eintrag', '_system', 'location=yes'); return false;"
+           class=" button button-positive button-block ">Tattoostudio eintragen</a>
+        <ion-list ng-repeat="single in tattoostudioliste">
+
+            <ion-item class="item-thumbnail-left" ng-href="#/side-menu/tattoostudioliste/{{single.id}}">
+
+                <img ng-if="single.image" ng-src="{{thumbnailPath}}tattooStudios/{{single.image}}-s.jpg">
+                <img ng-if="!single.image" ng-src="../img/ionic.png">
+
+                <h2>{{single.title}}</h2>
+
+                <p>{{single.short_description}}</p>
+
+                <p style="color: darkred">{{single.category.name}}</p>
+
+                <p style="color: darkred">{{single.city}}</p>
+
+            </ion-item>
+        </ion-list>
+    </ion-content>
+</ion-view>

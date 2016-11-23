@@ -1,8 +1,6 @@
 <ion-view title="Kontakt" id="page9" class=" ">
     <ion-content padding="true" class="has-header">
 
-
-
         <div class="list">
             <label class="item item-input">
                 <input type="text" placeholder="Name" ng-model="comment.name">
@@ -17,14 +15,12 @@
                 <span class="input-label">Nachricht</span>
                 <input type="text" placeholder="Nachricht" ng-model="comment.description">
             </label>
+
+
+            <button class="button button-block button-positive" ng-click="sendCommentToAPI()">
+                Senden
+            </button>
         </div>
-
-        <button class="button button-block button-positive" ng-click="sendCommentToAPI()">
-            Senden
-        </button>
-
-
-
 
     </ion-content>
 </ion-view>

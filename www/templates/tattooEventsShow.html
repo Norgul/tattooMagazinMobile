@@ -12,6 +12,16 @@
         </div>
 
         <h1 id="NewsTitle-heading1" style="color:#000000;" class=" ">{{event.title}}</h1>
+
+        <hr>
+        <b>
+            <div>Stadt: {{event.city}}</div>
+            <div>Land: {{event.country}}</div>
+            <div>Datum: {{date}}</div>
+            <div>Kontakt: {{event.contact}}</div>
+        </b>
+        <hr>
+
         <p id="NewsTitle-markdown1" style="color:#000000;" ng-bind-html="event.description">
         </p>
 

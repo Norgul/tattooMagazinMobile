@@ -124,6 +124,26 @@ angular.module('app.routes', [])
                 }
             })
 
+            .state('menu.tattoostudioliste', {
+                url: '/tattoostudioliste',
+                views: {
+                    'side-menu1': {
+                        templateUrl: 'templates/tattoostudioliste.html',
+                        controller: 'TattooStudioListeCtrl'
+                    }
+                }
+            })
+
+            .state('menu.tattoostudiolisteshow', {
+                url: '/tattoostudioliste/:id',
+                views: {
+                    'side-menu1': {
+                        templateUrl: 'templates/tattoostudiolisteShow.html',
+                        controller: 'TattooStudioListeShowCtrl'
+                    }
+                }
+            })
+
             .state('menu.amazon', {
                 url: '/amazon',
                 views: {

@@ -50,7 +50,34 @@ angular.module('app.controllers', [])
             Injection.ResourceFactory.getResource($http, SERVER, 'classifieds/' + $stateParams.id)
                 .then(function (response) {
                     $scope.classified = response.data.classified;
-                    console.log($scope.classified);
+                    $scope.date = response.data.date;
+                }, function (error) {
+                });
+
+            $scope.thumbnailPath = thumbSERVER;
+
+        }])
+
+
+    .controller('TattooStudioListeCtrl', ['$state', 'Injection', '$scope', '$http', 'SERVER', 'thumbSERVER',
+        function ($state, Injection, $scope, $http, SERVER, thumbSERVER) {
+
+            Injection.ResourceFactory.getResource($http, SERVER, 'tattoostudioliste')
+                .then(function (response) {
+                    $scope.tattoostudioliste = response.data.tattoostudioliste;
+                }, function (error) {
+                });
+
+            $scope.thumbnailPath = thumbSERVER;
+        }])
+
+    .controller('TattooStudioListeShowCtrl', ['$state', 'Injection', '$scope', '$http', 'SERVER', 'thumbSERVER', '$stateParams',
+        function ($state, Injection, $scope, $http, SERVER, thumbSERVER, $stateParams) {
+
+            Injection.ResourceFactory.getResource($http, SERVER, 'tattoostudioliste/' + $stateParams.id)
+                .then(function (response) {
+                    $scope.tattoostudioliste = response.data.tattoostudioliste;
+                    $scope.category = response.data.category;
                 }, function (error) {
                 });
 
@@ -76,6 +103,7 @@ angular.module('app.controllers', [])
             Injection.ResourceFactory.getResource($http, SERVER, 'events/' + $stateParams.id)
                 .then(function (response) {
                     $scope.event = response.data.event;
+                    $scope.date = response.data.date;
                 }, function (error) {
                 });
 

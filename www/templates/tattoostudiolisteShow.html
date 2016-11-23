@@ -1,0 +1,31 @@
+<ion-view>
+
+    <ion-nav-title>
+        {{tattoostudioliste.title}}
+    </ion-nav-title>
+
+    <ion-content padding="true" class="has-header">
+
+        <div style="text-align: center">
+            <img ng-if="tattoostudioliste.image"
+                 ng-src="{{thumbnailPath}}tattooStudios/{{tattoostudioliste.image}}-b.jpg"
+                 style="width: 100%">
+            <img ng-if="!tattoostudioliste.image" ng-src="../img/ionic.png">
+        </div>
+
+        <h1 id="NewsTitle-heading1" style="color:#000000;" class=" ">{{tattoostudioliste.title}}</h1>
+
+        <hr>
+        <b>
+            <div>Bundesland: {{category.name}}</div>
+            <div>City: {{tattoostudioliste.city}}</div>
+            <div>Webpage: {{tattoostudioliste.webpage}}</div>
+            <div>Fanpage: {{tattoostudioliste.fanpage}}</div>
+        </b>
+        <hr>
+
+        <p id="NewsTitle-markdown1" style="color:#000000;" ng-bind-html="tattoostudioliste.description">
+        </p>
+
+    </ion-content>
+</ion-view>
